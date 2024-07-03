@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1600&pause=600&color=0CE82B&center=true&vCenter=true&multiline=true&width=1920&height=200&lines=Hello%2C+my+name+is+Edgar.;I'm+a+Student+of+Computer+Engineer.;I'm+busy%2C+but+what's+up?)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1600&pause=600&color=0CE82B&center=true&vCenter=true&multiline=true&width=1920&height=300&lines=Hello%2C+my+name+is+Edgar.;I'm+a+Student+of+Computer+Engineer.;I'm+busy%2C+but+what's+up?)
 
 <div align="center">
   <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
@@ -24,18 +24,20 @@
 <br> 
 
 # 📈 <b>Github Statistics</b> 
-<div align='center'>
-  <table>
-    <tr>
-      <td>
+
+<div style="border: none;" align='center'>
+  <table style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=edgar-ramxs&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=GitHub%20Stats&disable_animations=true&layout=compact&hide=html&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true&langs_count=10" alt="Github Stats">
       </td>
-      <td>
+      <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgar-ramxs&layout=compact&hide=html&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true&langs_count=10" alt="Top Langs">
       </td>
     </tr>
   </table>
 </div>
+
 
 <br>
 
