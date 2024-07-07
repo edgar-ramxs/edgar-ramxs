@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1600&pause=600&color=0CE82B&center=true&vCenter=true&multiline=true&width=1920&height=300&lines=Hello%2C+my+name+is+Edgar.;I'm+a+Computer+Engineering+Student.;I'm+busy%2C+but+what's+up?)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1600&pause=600&color=0CE82B&center=true&vCenter=true&multiline=true&width=1920&height=300&lines=Hello%2C+my+name+is+Edgar.;I'm+a+Computer+Science+Engineering+Student.;I'm+busy%2C+but+what's+up?)
 
 <div align="center">
   <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
